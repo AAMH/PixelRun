@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c4127374f9bec2547a1f909439976e98
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tiles: {instanceID: 0}
+  - orbPrefab: {instanceID: 0}
+  - controlItemPrefab: {instanceID: 0}
+  - wayLightPrefab: {instanceID: 0}
+  - coinPrefab: {instanceID: 0}
+  - CharacterPrefab: {instanceID: 0}
+  - Sound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
